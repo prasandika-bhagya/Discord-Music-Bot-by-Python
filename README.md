@@ -10,4 +10,3 @@ or<br>
 *bp!pause - pausing song<br>
 *bp!stop - stop the song<br>
 *bp!help - help menu<br><br>
-This bot is designed by learning from an open source Youtube tutorial. All rights reserved to the owner<br>
