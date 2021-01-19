@@ -1,5 +1,5 @@
 # Discord-Musci-Bot
-Discord music bot  - playing any song from youtube by simply typing its name or URL <br>
+
 Discord music bot  - playing any song from youtube by simply typing its name or URL.<br>
 Administrative permission needed for the bot and prefix command is bp!.<br>
 <br>
@@ -9,5 +9,5 @@ or<br>
 *bp!play https://www.youtube.com/watch?v=9vMLTcftlyI&ab_channel=LilNasXVEVO<br>
 *bp!pause - pausing song<br>
 *bp!stop - stop the song<br>
-*bp!help - help menu<br>
+*bp!help - help menu<br><br>
 This bot is designed by learning from an open source Youtube tutorial. All rights reserved to the owner<br>
